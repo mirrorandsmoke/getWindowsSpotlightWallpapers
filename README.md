@@ -5,6 +5,6 @@ By default the wallpapers do not have an extension and this script copies only t
 It also deletes any duplicate files that may be present as already.
 
 In the $path varibale please substitute the username as your user in your c:\users folder. Please remove the angle brackets(<>) in the path.
-Also, please use a desired folder as the destination for copying the files. Do not remove the double quotes in the destination.
+Also, please use a desired folder as the destination for copying the files. Do not remove the double quotes in the destination. Right click on the file and click run with PowerShell.
 
 Enjoy!
